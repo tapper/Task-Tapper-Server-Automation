@@ -8,8 +8,6 @@ package Task::Tapper::Server::Automation;
 =pkgroup Explicit troublemaker deps
 
 
-=pkg Tapper::Action
-
 =pkg Proc::ProcessTable
 
 =pkg App::Daemon
@@ -19,7 +17,7 @@ package Task::Tapper::Server::Automation;
 =pkgroup Tapper
 
 
-=pkg Tapper::Schema
+=pkg Tapper::Action
 
 =pkg Tapper::Producer
 
